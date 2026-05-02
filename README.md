@@ -129,6 +129,12 @@ During my internship period, I actively participated in community-oriented activ
   <a href="https://drive.google.com/file/d/1LABuoDF0tbpw4e9iGxE675ScPOPkLEtq/view" target="_blank">Community Service Photo 2</a>
 </div>
 
+<div align="center">
+<img src="https://drive.google.com/file/d/12gcV1A_8-DQ84gX6X0avGYj-0t3YMlHC/view" alt="Community Service Photo 1" width="30%">
+<img src="https://drive.google.com/file/d/1LABuoDF0tbpw4e9iGxE675ScPOPkLEtq/view" alt="Community Service Photo 2" width="30%">
+</div>
+
+
 ---
 
 ## **Certificate**
