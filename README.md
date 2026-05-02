@@ -125,27 +125,10 @@ During my internship period, I actively participated in community-oriented activ
 ### **Photos**
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/12gcV1A_8-DQ84gX6X0avGYj-0t3YMlHC/view" target="_blank">Community Service Photo 1</a>
-  <a href="https://drive.google.com/file/d/1LABuoDF0tbpw4e9iGxE675ScPOPkLEtq/view" target="_blank">Community Service Photo 2</a>
+<img alt="Community Service Photo 2" width="30%" src="https://github.com/user-attachments/assets/2ee18c2f-c9d8-477f-af47-00771e853d54" />
+<img alt="Community Service Photo 2" width="30%"  src="https://github.com/user-attachments/assets/e09f3455-6192-4235-8c13-c1e1d4b9a5ef" />
 </div>
 
-<div align="center">
-<img src="https://drive.google.com/file/d/12gcV1A_8-DQ84gX6X0avGYj-0t3YMlHC/view" alt="Community Service Photo 1" width="30%">
-<img src="https://drive.google.com/file/d/1LABuoDF0tbpw4e9iGxE675ScPOPkLEtq/view" alt="Community Service Photo 2" width="30%">
-</div>
-
-
----
-
-## **Certificate**
-
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
-
-<!-- add your certificate image url below (inside src='')-->
-
-<!--<p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
-</p>-->
 
 ---
 
