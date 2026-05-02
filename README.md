@@ -125,8 +125,8 @@ During my internship period, I actively participated in community-oriented activ
 ### **Photos**
 
 <div align="center">
-<img alt="Community Service Photo 2" width="30%" src="https://github.com/user-attachments/assets/2ee18c2f-c9d8-477f-af47-00771e853d54" />
-<img alt="Community Service Photo 2" width="30%"  src="https://github.com/user-attachments/assets/e09f3455-6192-4235-8c13-c1e1d4b9a5ef" />
+<img alt="Community Service Photo 2" width="50%" src="https://github.com/user-attachments/assets/2ee18c2f-c9d8-477f-af47-00771e853d54" />
+<img alt="Community Service Photo 2" width="50%" height="50" src="https://github.com/user-attachments/assets/e09f3455-6192-4235-8c13-c1e1d4b9a5ef" />
 </div>
 
 
